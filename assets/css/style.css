@@ -15,10 +15,17 @@
     grid-area: 1/1/1/13;
 }
 
-.test2 {
+/* Position des tags sur les images */
+
+.tag-position {
     position: absolute;
-    top:800px;
+    bottom: 5px;
 }
+
+.picture-col-1, .picture-col-2, .picture-col-3 {
+    position: relative;
+}
+
 
 
 
