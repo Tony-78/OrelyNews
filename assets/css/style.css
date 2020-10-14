@@ -26,7 +26,9 @@
     position: relative;
 }
 
-
+.picture-col-1 p, .picture-col-2 p, .picture-col-3 p {
+    margin:0;
+}
 
 
 .col-1 {
